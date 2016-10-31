@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="425.19684"
+   height="425.19684"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docbase="/home/daniel/Desktop"
+   sodipodi:docname="drawing.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 212.59842 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="425.19684 : 212.59842 : 1"
+       inkscape:persp3d-origin="212.59842 : 141.73228 : 1"
+       id="perspective15" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.1618148"
+     inkscape:cx="212.59841"
+     inkscape:cy="212.59841"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1013"
+     inkscape:window-height="726"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     width="120mm"
+     height="120mm"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     showgrid="false">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="212.04188"
+       id="guide2182" />
+    <sodipodi:guide
+       orientation="vertical"
+       position="213.15496"
+       id="guide2184" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:none"
+       id="path3159"
+       sodipodi:cx="205.91994"
+       sodipodi:cy="190.33681"
+       sodipodi:rx="74.576408"
+       sodipodi:ry="74.576408"
+       d="M 280.49635 190.33681 A 74.576408 74.576408 0 1 1  131.34353,190.33681 A 74.576408 74.576408 0 1 1  280.49635 190.33681 z"
+       transform="matrix(1.092972,0,0,1.092972,-12.218303,4.6789933)" />
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#d60000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delta Hey Max Nine;-inkscape-font-specification:Delta Hey Max Nine"
+       x="74.013855"
+       y="118.17294"
+       id="text2178"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan2180"
+         x="74.013855"
+         y="118.17294">Frank Zappa</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.33098134;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;display:none"
+       id="path2186"
+       sodipodi:cx="261.01743"
+       sodipodi:cy="287.17484"
+       sodipodi:rx="198.12837"
+       sodipodi:ry="198.12837"
+       d="M 459.1458 287.17484 A 198.12837 198.12837 0 1 1  62.889053,287.17484 A 198.12837 198.12837 0 1 1  459.1458 287.17484 z"
+       transform="matrix(1.0699955,0,0,1.0710965,-66.618427,-94.437023)" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#009000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Delta Hey Max Nine;-inkscape-font-specification:Delta Hey Max Nine"
+       x="59.277359"
+       y="328.9147"
+       id="text3161"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan3163"
+         x="59.277359"
+         y="328.9147">Let me take you to the beach</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#a50000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2390"
+       sodipodi:cx="253.91309"
+       sodipodi:cy="260.79886"
+       sodipodi:rx="207.43408"
+       sodipodi:ry="207.43408"
+       d="M 461.34717,260.79886 A 207.43408,207.43408 0 1 1 46.479004,260.79886 A 207.43408,207.43408 0 1 1 461.34717,260.79886 z"
+       transform="matrix(1.0053913,0,0,1.0053913,-42.683583,-49.606489)" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#a50000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path2394"
+       sodipodi:cx="215.18059"
+       sodipodi:cy="232.39503"
+       sodipodi:rx="55.946953"
+       sodipodi:ry="55.946953"
+       d="M 271.12754,232.39503 A 55.946953,55.946953 0 1 1 159.23363,232.39503 A 55.946953,55.946953 0 1 1 271.12754,232.39503 z"
+       transform="matrix(1.2554467,0,0,1.2554467,-57.549335,-79.161165)" />
+  </g>
+</svg>

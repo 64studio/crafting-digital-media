@@ -1,0 +1,162 @@
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 2.0//EN" "http://www.w3.org/2001/SMIL20/SMIL20.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language" >
+ <head>
+  <meta content="KToon" name="generator" />
+  <layout>
+   <root-layout width="520" backgroundColor="black" height="340" id="MainLayout" />
+   <region width="520" z-index="1" left="0" height="340" fit="meet" id="Animation" top="0" />
+  </layout>
+ </head>
+ <body>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0000" dur="0.0416667s" src="data/ktoon-smiltest0000.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0001" dur="0.0416667s" src="data/ktoon-smiltest0001.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0002" dur="0.0416667s" src="data/ktoon-smiltest0002.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0003" dur="0.0416667s" src="data/ktoon-smiltest0003.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0004" dur="0.0416667s" src="data/ktoon-smiltest0004.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0005" dur="0.0416667s" src="data/ktoon-smiltest0005.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0006" dur="0.0416667s" src="data/ktoon-smiltest0006.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0007" dur="0.0416667s" src="data/ktoon-smiltest0007.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0008" dur="0.0416667s" src="data/ktoon-smiltest0008.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0009" dur="0.0416667s" src="data/ktoon-smiltest0009.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0010" dur="0.0416667s" src="data/ktoon-smiltest0010.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0011" dur="0.0416667s" src="data/ktoon-smiltest0011.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0012" dur="0.0416667s" src="data/ktoon-smiltest0012.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0013" dur="0.0416667s" src="data/ktoon-smiltest0013.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0014" dur="0.0416667s" src="data/ktoon-smiltest0014.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0015" dur="0.0416667s" src="data/ktoon-smiltest0015.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0016" dur="0.0416667s" src="data/ktoon-smiltest0016.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0017" dur="0.0416667s" src="data/ktoon-smiltest0017.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0018" dur="0.0416667s" src="data/ktoon-smiltest0018.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0019" dur="0.0416667s" src="data/ktoon-smiltest0019.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0020" dur="0.0416667s" src="data/ktoon-smiltest0020.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0021" dur="0.0416667s" src="data/ktoon-smiltest0021.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0022" dur="0.0416667s" src="data/ktoon-smiltest0022.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0023" dur="0.0416667s" src="data/ktoon-smiltest0023.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0024" dur="0.0416667s" src="data/ktoon-smiltest0024.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0025" dur="0.0416667s" src="data/ktoon-smiltest0025.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0026" dur="0.0416667s" src="data/ktoon-smiltest0026.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0027" dur="0.0416667s" src="data/ktoon-smiltest0027.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0028" dur="0.0416667s" src="data/ktoon-smiltest0028.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0029" dur="0.0416667s" src="data/ktoon-smiltest0029.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0030" dur="0.0416667s" src="data/ktoon-smiltest0030.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0031" dur="0.0416667s" src="data/ktoon-smiltest0031.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0032" dur="0.0416667s" src="data/ktoon-smiltest0032.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0033" dur="0.0416667s" src="data/ktoon-smiltest0033.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0034" dur="0.0416667s" src="data/ktoon-smiltest0034.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0035" dur="0.0416667s" src="data/ktoon-smiltest0035.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0036" dur="0.0416667s" src="data/ktoon-smiltest0036.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0037" dur="0.0416667s" src="data/ktoon-smiltest0037.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0038" dur="0.0416667s" src="data/ktoon-smiltest0038.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0039" dur="0.0416667s" src="data/ktoon-smiltest0039.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0040" dur="0.0416667s" src="data/ktoon-smiltest0040.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0041" dur="0.0416667s" src="data/ktoon-smiltest0041.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0042" dur="0.0416667s" src="data/ktoon-smiltest0042.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0043" dur="0.0416667s" src="data/ktoon-smiltest0043.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0044" dur="0.0416667s" src="data/ktoon-smiltest0044.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0045" dur="0.0416667s" src="data/ktoon-smiltest0045.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0046" dur="0.0416667s" src="data/ktoon-smiltest0046.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0047" dur="0.0416667s" src="data/ktoon-smiltest0047.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0048" dur="0.0416667s" src="data/ktoon-smiltest0048.png" />
+  </par>
+  <par>
+   <img fill="transition" region="Animation" id="ktoon-smiltest0049" dur="0.0416667s" src="data/ktoon-smiltest0049.png" />
+  </par>
+ </body>
+</smil>
